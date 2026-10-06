@@ -66,7 +66,7 @@ The commercial connected vehicle ecosystem combines onboard telematics hardware,
 
 ## 🔓 Open-Source GitHub Projects 🛠️
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Traccar](https://github.com/traccar/traccar)** [![Stars](https://img.shields.io/github/stars/traccar/traccar?style=social&color=white)](https://github.com/traccar/traccar/stargazers) 🌟  
   **The leading open-source GPS tracking system**, Apache-2.0 licensed. **Supports 200+ GPS protocols** and thousands of device models (Teltonika, Concox, Queclink). Real-time map tracking, geofencing, driver identification, fuel monitoring, and customizable push/email/SMS notifications. Modern web interface (React) and REST API. Enterprise-proven for tracking millions of assets. 🗺️
@@ -121,7 +121,7 @@ Contributions are welcome! Follow these steps to submit new automotive fleet dat
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact star counts, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Counts, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
